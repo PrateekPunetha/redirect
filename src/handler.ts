@@ -29,7 +29,6 @@ async function redirectGithub(
   request: Request,
   baseDomain: string,
   githubUrl: string,
-  apsUrl: string,
 ): Promise<Response> {
   const urlParts = request.url.replace(baseDomain, '').split('/')
   switch (urlParts[0]) {
