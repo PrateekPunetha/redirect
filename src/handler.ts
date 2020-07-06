@@ -25,7 +25,7 @@ async function redirectDownload(
   )
 }
 
-async function redirectGithub(
+async function redirectGitHub(
   request: Request,
   baseDomain: string,
   githubUrl: string,
