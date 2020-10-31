@@ -1,6 +1,6 @@
-const BASE_URL = 'https://prateekpunetha.me/'
-const DOWNLOAD_URL = 'https://download.prateekpunetha.me/'
-const DOWNLOAD_DEST_URL = 'https://dl.prateekpunetha.me/'
+const BASE_URL = 'https://prateekpunetha.dev/'
+const DOWNLOAD_URL = 'https://download.prateekpunetha.dev/'
+const DOWNLOAD_DEST_URL = 'https://dl.prateekpunetha.dev/'
 const GITHUB_USERNAME = 'prateekpunetha'
 const GITHUB_URL = `https://github.com/${GITHUB_USERNAME}`
 
