@@ -2,6 +2,6 @@ name = "redirekt"
 type = "webpack"
 zone_id = "**redacted**"
 account_id = "**redacted**"
-routes = ["msfjarvis.dev/*", "download.msfjarvis.dev/*"]
+routes = ["prateekpunetha.dev/*", "download.prateekpunetha.dev/*"]
 workers_dot_dev = false
 webpack_config = "webpack.config.js"
